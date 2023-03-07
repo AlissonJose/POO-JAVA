@@ -15,4 +15,5 @@ public class Peixe extends Animal{
     public void setTipoDeBarbatana(String tipoDeBarbatana) {
         this.tipoDeBarbatana = tipoDeBarbatana;
     }
+
 }
